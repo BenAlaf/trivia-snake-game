@@ -1,6 +1,6 @@
 # Trivia Snake Game
 
-A modern twist on the classic Snake game, combining real-time gameplay with trivia challenges. The player controls a snake and must collect the correct answer to each question, while avoiding incorrect ones and navigating the board.
+A modern twist to the classic Snake game, combining real-time gameplay with trivia challenges. The player controls a snake and must collect the correct answer to each question, while avoiding incorrect ones and navigating the board.
 
 ## Features
 - Trivia-based gameplay: answer questions by collecting the correct apple
